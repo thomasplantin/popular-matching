@@ -17,7 +17,7 @@ public class PopularMatchTest {
     @Test
     public void t1() {
 
-        int[][] preferenceLists = new int[][] { // Preference list of each applicant
+        int[][] preferenceLists = new int[][] { // Preference list of post for each applicant
                 {1, 2, 3},
                 {3, 2, 1},
                 {1, 2, 3} // Last is leader
